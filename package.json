@@ -1,0 +1,21 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "HTTP API endpoints with Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "10.14.1"
+  },
+  "author": "zahra sabah",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^4.13.8",
+    "point-in-polygon": "^1.0.1"
+  }
+}
